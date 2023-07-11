@@ -1,8 +1,6 @@
-![Dheeraj logo](image.png)
-
 <a name="readme-top"></a>
 
-  <h3><b>Recipe App</b></h3>
+  <h3><b>Rails and React One App</b></h3>
 
 </div>
 
@@ -26,10 +24,10 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Blog App] <a name="The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them."></a>
+# 📖 [Rails and React App] <a name="Its a one app including both React and Rails together"></a>
 
 
-**[Blog App]** is based on Ruby Language and Rails framework.
+**[Rails and React App]** is based on Ruby and React.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -58,7 +56,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[App for blog, create food and recipe post]**
+- **[One app including both Rails and React]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,14 +64,14 @@
 
 To get a local copy up and running, follow these steps.
 
-- clone this https://github.com/enis-memic/recipe-app.git
+- clone this https://github.com/dheerajsachdeva/hello_world_rails_react_oneapp.git
 
 
 ### Prerequisites
 
 In order to run this project you need:
 <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby and Ruby on Rails</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby and Ruby on Rails</a> and React with Redux</li>
   </ul>
   
 ### Setup
@@ -81,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 <ul>
 <li>cd my-folder</li>
-<li>git clone https://github.com/enis-memic/recipe-app.git</li>
+<li>git clone https://github.com/dheerajsachdeva/hello_world_rails_react_oneapp.git</li>
 </ul>
 
 ### Install
@@ -108,11 +106,6 @@ Run: rspec to run tests
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Enis Memic**
-
-- GitHub: [@enis-memic](https://github.com/enis-memic)
-- LinkedIn: [enis-memic](https://linkedin.com/in/enis-memic)
-
 
 👤 **DHEERAJ SACHDEVA**
 
@@ -127,7 +120,7 @@ Run: rspec to run tests
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[API and documentation will be added]**
+- [ ] **[Documentation will be added]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +128,7 @@ Run: rspec to run tests
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [repo](https://github.com/enis-memic/recipe-app.git) 
+Feel free to check the [repo](https://github.com/dheerajsachdeva/hello_world_rails_react_oneapp.git) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,15 +140,15 @@ If you like this project please follow me on github
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and my Coding partner Dheeraj
+I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **[What is Recipe App?]**
+- **[What is Rails and React App?]**
 
-  - [In this project, we are creating recipe app. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.]
+  - [In this project, we are creating one app including Rails and React.]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
